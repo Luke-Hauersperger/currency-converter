@@ -1,2 +1,2 @@
-# currency-converted
+# currency-converter
 (GBP, EUR, CNY)
